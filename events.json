@@ -1,0 +1,21 @@
+[
+  {
+    "title": "CAMP Mamer",
+    "description": "",
+    "start": "2025-07-22T00:00:00",
+    "end": "2025-07-28T23:59:00",
+    "calendar_type": "Gefierer",
+    "color": "#d62728",
+    "all_day": false,
+    "vehicle": "MerschMTW2 (CG 1782)"
+  },
+  {
+    "title": "ARI- Schmitt",
+    "description": "",
+    "start": "2025-08-13T08:00:00",
+    "end": "2025-08-13T17:00:00",
+    "calendar_type": "Batiment",
+    "color": "#9467bd",
+    "all_day": false
+  }
+]
