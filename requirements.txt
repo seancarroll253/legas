@@ -1,2 +1,6 @@
 streamlit
 streamlit-autorefresh
+requests
+pandas
+python-dateutil
+pytz
